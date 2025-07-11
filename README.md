@@ -1,4 +1,5 @@
-pip install torch torchaudio librosa coqui-tts soundfile gradio numpy# Custom-AI-Voice-Cloner-Text-to-Speech-Generator
+# Custom-AI-Voice-Cloner-Text-to-Speech-Generator
+pip install torch torchaudio librosa coqui-tts soundfile gradio numpy
 from TTS.api import TTS
 import gradio as gr
 
